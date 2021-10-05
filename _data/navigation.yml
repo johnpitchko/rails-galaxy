@@ -1,0 +1,9 @@
+main:
+  - title: "Rails"
+    url: /rails
+  - title: "Ruby"
+    url: /ruby
+  - title: "Git"
+    url: /git
+  - title: "Docker"
+    url: /docker

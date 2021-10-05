@@ -1,0 +1,15 @@
+# Enable Editorial Workflow
+publish_mode: editorial_workflow
+
+# Media files will be stored in the repo under images/uploads
+media_folder: "images/uploads"
+
+collections:
+  - name: 'git'
+    label: 'Git'
+    folder: ''
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
