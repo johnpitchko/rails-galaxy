@@ -2,7 +2,6 @@
 toc: true
 title: Cookbook
 layout: single
-published: false
 
 ---
 ## Refreshing images used in an orchestration
