@@ -17,3 +17,5 @@ fields:
   description: Toggle to show the table of contents panel on the right of the content
     panel.
   default: true
+pages:
+- _docker/cookbook.md
