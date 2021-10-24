@@ -277,6 +277,8 @@ compress_html:
 collections:
   git:
     output: true
+  docker:
+    output: true
 
 # Defaults
 defaults:
