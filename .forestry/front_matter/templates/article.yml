@@ -14,3 +14,6 @@ fields:
 - type: boolean
   name: toc
   label: toc
+  description: Toggle to show the table of contents panel on the right of the content
+    panel.
+  default: true
