@@ -281,6 +281,8 @@ collections:
     output: true
   docker:
     output: true
+  activemodel:
+    output: true
 
 # Defaults
 defaults:
